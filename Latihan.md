@@ -7,7 +7,7 @@ Sebelum Anda menginstal Docker Engine untuk pertama kalinya pada mesin host baru
 * Siapkan repositori
 Perbarui indeks paket apt dan instal paket untuk memungkinkan apt menggunakan repositori melalui HTTPS:
 
-![Docker Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-07/images/install%20Docker/gambar-02.png)
+![Docker Installer](./ResponsiTCC/images/install%20Docker/gambar-02.png)
 
 ![Docker Installer](https://github.com/Wahyupr/tekn-cloud-computing/blob/master/minggu-07/images/install%20Docker/gambar-03.png)
 
